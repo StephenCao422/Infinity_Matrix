@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/f2663/Desktop/415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/f2663/Desktop/415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/f2663/Desktop/415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/Score.uasset",
+				"C:/Users/f2663/Desktop/415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/f2663/Desktop/415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"C:/Users/f2663/Desktop/415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Materials/CaoMaterial.uasset",
+				"C:/Users/f2663/Desktop/415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Meshes/Enemy.uasset",
+				"C:/Users/f2663/Desktop/415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Materials/HealthMaterial.uasset",
+				"C:/Users/f2663/Desktop/415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Meshes/Projectile.uasset",
+				"C:/Users/f2663/Desktop/415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/f2663/Desktop/415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Meshes/HealthPackage.uasset",
+				"C:/Users/f2663/Desktop/415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Materials/ProjectileMaterial.uasset",
+				"C:/Users/f2663/Desktop/415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/Health.uasset",
+				"C:/Users/f2663/Desktop/415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/Color.uasset",
+				"C:/Users/f2663/Desktop/415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/HealthColor.uasset",
+				"C:/Users/f2663/Desktop/415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Materials/Projectile.uasset",
+				"C:/Users/f2663/Desktop/415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Meshes/Enermy.uasset",
+				"C:/Users/f2663/Desktop/415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"C:/Users/f2663/Desktop/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/f2663/Desktop/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/f2663/Desktop/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/f2663/Desktop/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/f2663/Desktop/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/f2663/Desktop/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/Health.uasset",
+				"C:/Users/f2663/Desktop/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/HealthBarWidget.uasset"
+			]
+		}
+	]
+}
